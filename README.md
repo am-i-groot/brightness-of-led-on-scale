@@ -1,4 +1,4 @@
-# Brightness-Of-Led-On-a-Scale
+# Brightness Of Led On a Scale
 ## It’s Movie Time! Switch lights on dim with a click!
 We will learn how to control the LED using Bolt Cloud.
 
